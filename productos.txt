@@ -48,12 +48,6 @@
     "id": 8
   },
   {
-    "name": "Instagram",
-    "price": "2432",
-    "thumbnail": "cxsfgdsg",
-    "id": 9
-  },
-  {
     "name": "Tornillo punta mecha T2",
     "price": "5",
     "thumbnail": "https://sagosa.com.ar/1867-large_default/tornillo-t1-punta-mecha-100-unidades.jpg",
