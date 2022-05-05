@@ -1,0 +1,43 @@
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/style.css">
+    <title>Formularios de Ingreso de Productos</title>
+</head>
+<body>
+
+    <body>
+        <div class="container-all">
+            <div class="ctn-formulario">
+                <h1 class="title">Ingrese el producto</h1>
+    
+                
+                <form action="/api/productos" method="POST">
+                    <label for="">Name:</label>
+                    <input type="text" name="name" placeholder="Name">
+                    <label for="">Price:</label>
+                    <input type="number" name="price" placeholder="Price">
+                    <label for="">Thumbnail:</label>
+                    <input type="text" name="thumbnail" placeholder="thumbnail">
+    
+                    <input type="submit" name="iniciar" value="Iniciar">
+    
+                </form>
+    
+                <span class="text-footer">¿Quieres subir un archivo? <a href="http://localhost:8000/subir.html">Subir</a></span>
+    
+            </div>
+    
+        </div>
+        
+        <div class="capa-body"></div>
+    
+        
+    
+    </body>
+
+</body>
+</html>

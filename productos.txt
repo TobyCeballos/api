@@ -1,0 +1,62 @@
+[
+  {
+    "name": "cemento x50kg",
+    "price": 1170,
+    "thumbnail": "https://arcencohogar.vtexassets.com/arquivos/ids/301779/1994314-1.jpg?v=637665766571030000",
+    "id": 1
+  },
+  {
+    "name": "Ladrillo hueco del 12",
+    "price": 63,
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_662504-MLA31623294488_072019-O.jpg",
+    "id": 2
+  },
+  {
+    "name": "hierro del 8",
+    "price": 1250,
+    "thumbnail": "https://bercovichsa.vteximg.com.br/arquivos/ids/156739-590-590/hierro-tor-8mm.jpg?v=637265268873730000",
+    "id": 3
+  },
+  {
+    "name": "Guantes tactiles",
+    "price": 294,
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQt97IXLH0B0lfqT0gPsXIyk7fmFxoG4KasNg&usqp=CAU",
+    "id": 4
+  },
+  {
+    "name": "Bisagra",
+    "price": 251,
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_803465-MLA45433179443_042021-O.webp",
+    "id": 5
+  },
+  {
+    "name": "Disco flap grano 120",
+    "price": 230,
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_941435-MLA31110039512_062019-O.webp",
+    "id": 6
+  },
+  {
+    "name": "Disco de corte para metal",
+    "price": 211,
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_874472-MLA42459175653_072020-O.jpg",
+    "id": 7
+  },
+  {
+    "name": "Taladro percutor a bateria",
+    "price": 18840,
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_889650-MLA46963620267_082021-O.webp",
+    "id": 8
+  },
+  {
+    "name": "Instagram",
+    "price": "2432",
+    "thumbnail": "cxsfgdsg",
+    "id": 9
+  },
+  {
+    "name": "Tornillo punta mecha T2",
+    "price": "5",
+    "thumbnail": "https://sagosa.com.ar/1867-large_default/tornillo-t1-punta-mecha-100-unidades.jpg",
+    "id": 10
+  }
+]

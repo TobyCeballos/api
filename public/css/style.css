@@ -1,0 +1,108 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+    text-decoration: none;
+}
+
+body{
+    padding: 20px;
+}
+
+.capa-body{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background: rgba(0, 0, 49, 0.575);
+}
+
+.container-all{
+    width: 100%;
+    max-width: 1000px;
+    margin: auto;
+    margin-top: 100px;
+    display: flex;
+    border-radius: 5px;
+    overflow: hidden;
+}
+
+.ctn-formulario{
+    z-index: 100;
+    width: 80%;
+    padding: 40px;
+    background: #ffffff;
+}
+
+.title{
+    text-align: center;
+    margin-top: 20px;
+    font-weight: 400;
+    color: #7a7a7a;
+}
+
+label{
+    display: block;
+    margin-top: 30px;
+    font-size: 20px;
+    font-weight: 300;
+    color: #727272;
+}
+
+
+input[type="text"],
+input[type="number"],
+input[type="text"]{
+    margin-top: 5px;
+    padding-left: 3px;
+    width: 100%;
+    height: 30px;
+    border: 0px;
+    outline: none;
+    font-size: 16px;
+    border-bottom: 1px solid rgba(34, 34, 39, 0.3);
+    color: #1a8cfe;
+}
+
+input::placeholder{
+    color: #808080;
+    opacity: 0.5;
+}
+
+input[type="submit"]{
+    font-size: 18px;
+    width: 100%;
+    height: 50px;
+    margin-top: 60px;
+    color: #fff;
+    border: 0px;
+    background: linear-gradient(90deg,#2890d4, #0f52e3);
+    transition: all 600ms;
+    cursor: pointer;
+    font-weight: 300;
+}
+
+input[type="submit"]:hover{
+    background: linear-gradient(90deg, #0f52e3, #2890d4);
+    font-size: 20px;
+    font-weight: 800;
+    box-shadow: 0px 5px 8px rgba(0, 0, 0, 0.2);
+    
+}
+
+.text-footer{
+    display: block;
+    margin-top: 100px;
+    text-align: center;
+    color: #7a7a7a;
+    font-weight: 300;
+}
+
+.text-footer a{
+    color: #e41c24;
+    font-weight: 500;
+}
