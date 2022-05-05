@@ -73,13 +73,6 @@ rProductos.delete('/:id', async (req, res) => {
     res.json(deleted)
 })
 
-//rProductos.put('/:id', async (req, res) => {
-//    const { id } = req.params.id
-//    const objPush = req.body
-//    let objPut = await Contenedor.updateById(id, objPush)
-//    res.json(objPut)
-//
-//})
 
 rProductos.put('/:id', async (req, res) => {
     const objput = await Contenedor.getAll()
